@@ -47,8 +47,8 @@ Asegúrate de tener instaladas las siguientes bibliotecas de Python antes de eje
 
 Puedes instalar estas bibliotecas utilizando el siguiente comando:
 
-```bash
-pip install numpy opencv-python
+`pip install numpy opencv-python`
+
 # Configuración
 1. Descarga el modelo de la carpeta proporcionada en la variable `DIR`.
 2. Asegúrate de tener una carpeta (`Images_BlackWhite`) con las imágenes en blanco y negro que deseas colorear.
@@ -77,8 +77,7 @@ Este script en Python utiliza la biblioteca MediaPipe y un modelo preentrenado d
 
 Instala las bibliotecas necesarias utilizando el siguiente comando:
 
-```bash
-pip install opencv-python numpy mediapipe tensorflow matplotlib
+`pip install opencv-python numpy mediapipe tensorflow matplotlib`
 
 ##  Uso
 
