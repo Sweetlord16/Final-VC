@@ -99,3 +99,6 @@ Instala las bibliotecas necesarias utilizando el siguiente comando:
 - El script utiliza el modelo action.h5 para la clasificación de acciones de lengua de signos. No modifiques el modelo a menos que sea necesario.
 - Presiona 'q' para salir de la aplicación.
 
+##  Modelos
+Para descargar el caffemodel y el prototxt, visita: https://github.com/richzhang/colorization/tree/caffe/colorization/models
+Para obtener pts_in_hull.npy, visita: https://github.com/richzhang/colorization/tree/caffe/colorization/resources/pts_in_hull.npy
